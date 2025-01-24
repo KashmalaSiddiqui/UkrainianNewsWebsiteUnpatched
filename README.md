@@ -49,8 +49,8 @@ This project uses MySQL as the database. The database will be automatically set 
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/KashmalaSiddiqui/UkrainianNewsWebsite.git
-cd UkrainianNewsWebsite/unpatched
+git clone https://github.com/KashmalaSiddiqui/UkrainianNewsWebsiteUnpatched.git
+cd UkrainianNewsWebsiteUnpatched
 ```
 
 ### 2. Build and Start the Docker Containers
@@ -76,7 +76,7 @@ http://localhost:8001
 
 ### 4. Database Configuration
 The MySQL database credentials are configured in the `docker-compose.yml` file:
-- **Database Name**: `ukrainian_news`
+- **Database Name**: `users`
 - **Username**: `root`
 - **Password**: `password`
 
