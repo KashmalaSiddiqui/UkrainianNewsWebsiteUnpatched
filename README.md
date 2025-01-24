@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the **unpatched version** of the Ukrainian News Website. It implements the following key features and intentionally includes vulnerabilities for educational purposes:
+This repository contains the **unpatched version** of the Ukrainian News Website. It implements the following key features and intentionally includes vulnerabilities for educational purposes, the **Patched Version** of this website is in another Repository:
 
 ### Features
 - Member login and admin login functionality.
